@@ -8,7 +8,7 @@
 
 ## Command to run the setup
   
-               sudo docker-compose up --build( to build the project for first time or rebuilding it)
+         sudo docker-compose up --build( to build the project for first time or rebuilding it)
                
                
                
